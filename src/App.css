@@ -1,0 +1,10 @@
+th {
+  text-align: center; }
+
+.img-responsive {
+  max-width: 25%;
+  align-content: right;
+  margin: auto; }
+
+.btn {
+  margin-right: auto; }
